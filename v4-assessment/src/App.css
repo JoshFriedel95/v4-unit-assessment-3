@@ -1,0 +1,23 @@
+body{
+  display: flex;
+
+}
+
+.header{
+  display: flex;
+  position: relative;
+  height: 10vh;
+  width: 100vw;
+  background-color: rgb(221, 221, 221);
+  color: black;
+}
+.shelf{
+  display: flex;
+  background-color: blue;
+}
+
+
+
+
+
+
